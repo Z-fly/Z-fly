@@ -1,6 +1,7 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 [![](https://github-readme-stats.vercel.app/api?username=Z-fly&show_icons=true)](https://github.com/Z-fly)
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Z-fly&hide=javascript,html,css)
 <!--
 **Z-fly/Z-fly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
