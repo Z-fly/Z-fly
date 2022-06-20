@@ -3,7 +3,7 @@
 
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)](#)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Z-fly&hide=javascript,html,css)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Z-fly&hide=javascript,html,css,asl)
 <!--
 **Z-fly/Z-fly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
